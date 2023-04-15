@@ -1,0 +1,3 @@
+ALTER TABLE "profiles" ALTER COLUMN "nickname" SET NOT NULL;
+ALTER TABLE "profiles" ALTER COLUMN "email" SET NOT NULL;
+ALTER TABLE "profiles" ALTER COLUMN "type" SET DEFAULT 'viewer';

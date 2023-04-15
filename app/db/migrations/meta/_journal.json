@@ -1,0 +1,18 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1681590644522,
+      "tag": "0000_short_squadron_sinister"
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1681597011595,
+      "tag": "0001_ambitious_mad_thinker"
+    }
+  ]
+}
